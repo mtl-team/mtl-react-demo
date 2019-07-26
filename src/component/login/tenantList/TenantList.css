@@ -1,0 +1,26 @@
+.main {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.main .list {
+  height: 100%;
+  margin-bottom: 20px;
+  overflow: scroll;
+}
+
+.main .list .item-checked {
+  background-color: #aaaaaa;
+}
+
+.main .list .item-unchecked {
+  background-color: white;
+}
+
+.main .btn-sure {
+  height: 48px;
+  font-size: 18px;
+}
