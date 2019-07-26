@@ -1,0 +1,26 @@
+{
+	"config": {
+		"appName": "mtl",
+		"packageName": "com.yonyou.mtl",
+		"bundleID": "com.yonyou.uap.mobile5",
+		"projectName": "mtl",
+		"versionName": "1.0.0",
+		"versionCode": "100",
+		"versionBuild": "1.0.0",
+		"startPage": "index.html",
+		"debuggerEnable": "false",
+		"reinforcement": "false",
+		"sandbox": "false",
+		"targetDevice": "handset",
+		"statusBarTheme": "summer.Animations.NoTitleBar.FullScreen",
+		"androidMinSdkVersion": "19",
+		"isLibraryCompilation": "false",
+		"ddAppCode": "dingnlb2wikil7pldytf",
+		"wxAppCode": "dingnlb2wikil7pldytf",
+		"cordovaPlugins": [
+		
+			],
+		"gitUrl": "https://gogs.yonyoucloud.com/caiyi/mtl.git",
+		"technologyStack" : "react"
+	}
+}
